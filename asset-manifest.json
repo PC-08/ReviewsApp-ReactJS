@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReviewsApp-ReactJS/static/css/main.9c074973.chunk.css",
+    "main.js": "/ReviewsApp-ReactJS/static/js/main.35716bae.chunk.js",
+    "main.js.map": "/ReviewsApp-ReactJS/static/js/main.35716bae.chunk.js.map",
+    "runtime-main.js": "/ReviewsApp-ReactJS/static/js/runtime-main.3c6218b3.js",
+    "runtime-main.js.map": "/ReviewsApp-ReactJS/static/js/runtime-main.3c6218b3.js.map",
+    "static/js/2.daa4dbf4.chunk.js": "/ReviewsApp-ReactJS/static/js/2.daa4dbf4.chunk.js",
+    "static/js/2.daa4dbf4.chunk.js.map": "/ReviewsApp-ReactJS/static/js/2.daa4dbf4.chunk.js.map",
+    "index.html": "/ReviewsApp-ReactJS/index.html",
+    "static/css/main.9c074973.chunk.css.map": "/ReviewsApp-ReactJS/static/css/main.9c074973.chunk.css.map",
+    "static/js/2.daa4dbf4.chunk.js.LICENSE.txt": "/ReviewsApp-ReactJS/static/js/2.daa4dbf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c6218b3.js",
+    "static/js/2.daa4dbf4.chunk.js",
+    "static/css/main.9c074973.chunk.css",
+    "static/js/main.35716bae.chunk.js"
+  ]
+}
